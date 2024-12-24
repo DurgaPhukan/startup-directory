@@ -81,4 +81,3 @@ This application is optimized for deployment on [Vercel](https://vercel.com/):
 Errors and exceptions are tracked using Sentry. To view error logs:
 1. Log in to your Sentry dashboard.
 2. Navigate to the project's error monitoring section.
-
